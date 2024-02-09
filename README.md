@@ -1,7 +1,7 @@
 ## Data Engineer and Analyst 
 
 ### Education
-B.S. In Computer Science, Northeastern University (2015-2019) <img src="/images/neu.png" width=50% height=50%>
+B.S. In Computer Science, Northeastern University (2015-2019) <img src="/images/neu.png" width=100px height=100px>
 
 ### Projects
 #### Washington State Lobbying Spending
