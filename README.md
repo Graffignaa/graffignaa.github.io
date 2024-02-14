@@ -1,5 +1,7 @@
 ## Data Engineer and Analyst 
 
+### [Resume](./resume.docx)
+
 ### Education
 
 #### B.S. In Computer Science, Northeastern University (2015-2019) <img src="/images/neu.png" width=25px height=25px>
