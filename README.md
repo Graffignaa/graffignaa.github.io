@@ -27,7 +27,7 @@ I completed a 12 week full-time bootcamp through General Assembly focusing on Da
 
 ### Projects
 #### Washington State Lobbying Spending <img src="/images/wa_flag.webp" width=40px height=25px>
-Every year, over 3 billion dollars are spent in the United States to lobby the government in an effort to influence legislation.  This project utilized publicly available datasets from the Washington State Public Disclosures Commission and LegiScan to analyze trends in this spending over the past 10 years in Washington State.  You can view the project here [(link)](https://graffignaa.github.io/washington_lobbying_spending/).  
+Every year, over 3 billion dollars are spent in the United States to lobby the government in an effort to influence legislation.  This project utilized publicly available datasets from the Washington State Public Disclosures Commission and LegiScan to analyze trends in this spending over the past 10 years in Washington State.  You can view the project [(here)](https://graffignaa.github.io/washington_lobbying_spending/).  
 
 #### Wind Power Project
 
