@@ -1,4 +1,5 @@
 <div align="center">
+  
   ## Data Engineer and Analyst 
   
   ### [Resume](./resume.docx)
@@ -45,4 +46,5 @@
   
   
   ### Work Experience
+  
 </div>
