@@ -1,3 +1,4 @@
+<div align="center">
 ## Data Engineer and Analyst 
 
 ### [Resume](./resume.docx)
@@ -44,3 +45,4 @@ Every year, over 3 billion dollars are spent in the United States to lobby the g
 
 
 ### Work Experience
+</div>
