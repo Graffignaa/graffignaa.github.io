@@ -2,7 +2,7 @@
   
   <h1>Data Engineer and Analyst</h1> 
   
-  <h2>Resume</h2>
+  <h2><a href=https://graffignaa.github.io/resume/>Resume</a></h2>
   
   <h2>Education</h2>
 
