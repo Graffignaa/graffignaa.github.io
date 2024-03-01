@@ -10,53 +10,51 @@
 */
 
 body {
-	background: #222438;
+	background: #FFFFFF;
 	font-family: Georgia, Times New Roman, Times, serif;
-	font-weight: bold;
+	
 	font-size: 30px;
 	text-align: center;
 }
 
 h1 {
-	font-size: 120px;
+	font-size: 80px;
 	font-weight: normal;
 	margin: 0;
 	font-family: 'Garamond',"Arial Black",serif;
 	text-transform: uppercase;
 	color: #000000;
-	text-shadow: 0 2px 1px #000;
 	line-height: 1;
 }
 
 h2 {
-	font-size: 80px;
-	font-weight: normal;
+	font-size: 40px;
+	font-weight: bold;
 	margin: 0;
-	text-shadow: 0 2px 1px #000;
-	color: #FFB000;
-	font-family: 'Bowlby One SC',"Arial Black",Gadget,sans-serif;
+	color: #000000;
+	font-family: 'Garamond',"Arial Black",serif;
 	text-transform: uppercase;
 }
 
 h3 {
-	font-size: 40px;
-	font-weight: normal;
+
+	font-size: 30px;
+	font-weight: bold;
 	margin: 0;
-	color: #D92B00;
-	text-shadow: 0 2px 1px #000;
-	font-family: 'Bowlby One SC',"Arial Black",Gadget,sans-serif;
+	color: #000000;
+	font-family: 'Garamond',"Arial Black",serif;
 	text-transform: uppercase;
 }
 
 p {
+	font-size: 20px;
 	width: 80%;
 	margin: 20px auto;
-	text-shadow: 0 2px 1px #000;
-	color: #C5C3DE;
+	color: #000000;
 }
 
 a, a:visited {
-	color: #D92B00;
+	color: #00000;
 	font-weight: bold;
 	font-style: italic;
 }
